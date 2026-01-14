@@ -10,7 +10,7 @@ Prof. Golan Levin • CMU 60-412/712 • Spring 2026
 ## Itinerary
 
 * `M Jan 12` [Notes](daily/20260112.md)
-* `W Jan 14` 
+* `W Jan 14` [Notes](daily/20260114.md)
 * `M Jan 19` *MLK Day; no session*
 * `W Jan 21` 
 * `M Jan 26` Presentations
