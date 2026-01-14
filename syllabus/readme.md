@@ -60,15 +60,11 @@ Attendance is important, but if you need to miss class — which can happen, wit
 
 # Overview
 
-<!-- 
 
 ### Course Description
 
-*Advanced Creative Coding* (60-412/712) is a practical introduction to the use of programming and computation within the context of the arts. In this intermediate level course, students develop or deepen the skills and confidence to produce interactive, generative, and computational artworks; discuss their work in relation to current and historic praxes of computer art; and engage new technologies critically.
+This advanced studio course supports students in developing ambitious independent projects at the intersection of art and computation. Building on the foundations of Creative Coding (60-212), students will deepen their fluency with programming as a medium for artistic practice, while pursuing individual investigations in areas such as generative art, gestural interactivity, experimental visualization, machine drawing, hedonic computing and weird software. The course emphasizes self-directed research and sustained project development. Students will refine technical expertise in contemporary creative coding environments, explore novel workflows that combine imaging and machine intelligence, critically situate their work in relation to historical and current practices in software art, and learn strategies for articulating conceptual intent alongside technical execution. Class time will balance structured technical workshops, peer critiques, and guided discussions with opportunities for students to prototype, iterate, and present evolving projects. The aim is to foster independent, critically engaged artistic practice in code, equipping students to move fluidly between experiment and execution, and to position their work within wider discourses of art, design, and technology. Prerequisite: 60-212, or permission of instructor.
 
-This is a “studio art course in computer science”, in which our objective is art and design, but our medium is student-written software. Intended as an advanced course for arts students who have already had one semester of elementary programming (in any language), this class develops craft skills in arts-engineering using a variety of creative coding toolkits, especially including [p5.js](https://p5js.org/) (JavaScript), [ComfyUI](https://www.runcomfy.com/) and [TouchDesigner](https://derivative.ca/). with the aim of applying these skills to problems in interactive art, computational design, and other creative explorations of transmediality, connectivity, generativity, and immersivity.
-
--->
 
 ### Learning Objectives and Course Goals
 
@@ -123,7 +119,7 @@ This semester, you can expect to receive the following feedback, at a minimum:
 
 ### Additional Expenses
 
-* I feel you should have a paid account for an LLM-based generative AI system, such as [Anthropic Claude.ai Pro (Claude Code](https://www.anthropic.com/pricing) (USD20/month). 
+* I feel strongly that you should have a paid account for an LLM-based generative AI coding assistant, such as [Anthropic Claude.ai Pro (Claude Code](https://www.anthropic.com/pricing) ($20/month). 
 
 ### Communication Tools
 
@@ -395,7 +391,13 @@ For incidents that may not violate any formal policies or require disciplinary a
 
 ---
 
-# Classroom Hygiene
+# A Healthy Classroom
+
+### A Collegial Co-Working Space
+
+Our classroom is a **focused, collegial co-working studio** rather than a social space. Informal conversation and peer help are welcome, but noise, gossip, and other distractions undermine the shared working environment. Please keep voices low, avoid disrupting others, and respect that many people are engaged in sustained, concentrated work. Be attentive to how your presence affects others: headphones may signal a desire to focus, but no one should need them in order to work, and maintaining a respectful sound level is a collective responsibility.
+
+### A Clean Place to Be
 
 As we head back to campus, keep in mind that thousands of students are returning from many different locations — potentially bringing with them some germs you haven't encountered before. In light of this, the following policies and suggestions govern our in-person meetings: 
 
