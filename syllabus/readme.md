@@ -88,13 +88,13 @@ This course is relevant to students who are interested in:
 
 *How will students be assessed: assignments, exams, final, presentation, project, etc.?*
 
-* **10 Assignments**. There will be ten sets of Deliverables this semester, assigned at approximately weekly intervals. Each set will have several sub-components, including multiple warmup exercises and a main project, that may have different intermediate deadlines.
-* **Complete the checklists**. For each set of deliverables, an objective checklist of subtasks will be provided, with clearly defined assessment criteria. To ensure transparency, fairness and consistency, grades in this course are straightforwardly calculated according to students' fulfillment of these checklists and criteria. Many items on these checklists are intentionally easy to fulfill; pay attention to them.
+* **4 Presentations with Documentation**. Each student will be expected to give four Presentations this semester, assigned at approximately monthly intervals.
+* **Complete the checklists**. For each Presentation, an objective checklist of documentation subtasks will be provided, with clearly defined assessment criteria. To ensure transparency, fairness and consistency, grades in this course are straightforwardly calculated according to students' fulfillment of these checklists and criteria. Many items on these checklists are intentionally easy to fulfill; pay attention to them.
 * **Qualitative evaluations are decoupled from grades**. In addition to grades that reflect the fulfillment of straightforward checklists, students will also receive qualitative and subjective feedback from a variety of people, including the professor, other CMU faculty, outside professionals, and/or their peers. This critical feedback on the content and quality of your projects does not factor into your grade.
 
 This semester, you can expect to receive the following feedback, at a minimum: 
 
-* You will receive a numeric grade for each component of each weekly set of deliverables, as well as a brief written evaluation about one or more of your weekly projects.
+* You will receive a numeric grade for your documentation checklist, as well as a brief written evaluation about your project/presentation/documentation.
 * At Spring Break, you will receive a mid-semester grade, as well as a brief written evaluation about your overall performance.
 * At the end of the semester you will receive a final grade, and a brief written evaluation. 
 
@@ -102,7 +102,7 @@ This semester, you can expect to receive the following feedback, at a minimum:
 
 *Are there extra time commitments required outside of the regularly scheduled course meeting times?*
 
-* I anticipate that students will spend approximately 6-8 hours per week outside of class working on their projects. In the past, some students have reported that this course consumes as much as 15 hours per week. 
+* I anticipate that students will spend approximately 6-10 hours per week outside of class working on their projects.
 * There may be a small number of special events outside of class meeting times (such as public artist lectures), for which attendance is *strongly recommended*.
 * Students may also wish to attend optional and occasional group work sessions.
 
