@@ -13,7 +13,7 @@
 * `M Jan 12` [Notes](daily/20260112.md)
 * `W Jan 14` [Notes](daily/20260114.md)
 * `M Jan 19` *MLK Day; no session*
-* `W Jan 21` 
+* `W Jan 21` [Notes](daily/20260121.md)
 * `M Jan 26` **E1**: Alex, Aren, Christy, Dario, Ian, Leslie, Lorie, Nestor, Suanna
 * `W Jan 28` **E1**: Carina, Claire, Jeffrey, Merlin, Vincent, Willie, Xiao, Zhuoyang
 * `--------`
@@ -32,8 +32,8 @@
 * `W Mar 11` 
 * `M Mar 16`
 * `W Mar 18`
-* `M Mar 23` **E3**: Alex, Carina, Christy, Claire, Dario, Leslie, Lorie, Merlin, Suanna, Xiao
-* `W Mar 25` **E3**: Aren, Ian, Jeffrey, Nestor, Vincent, Willie, Zhuoyang
+* `M Mar 23` **E3**: Alex, Carina, Christy, Claire, Dario, Lorie, Merlin, Suanna, Xiao
+* `W Mar 25` **E3**: Aren, Ian, Jeffrey, Leslie, Nestor, Vincent, Willie, Zhuoyang
 * `--------`
 * `M Mar 30` Pod discussions
 * `W Apr 01` 
