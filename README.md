@@ -17,7 +17,7 @@
 * `M Jan 26` **E1**: Dario, Ian, Leslie, Lorie, Nestor, Suanna
 * `W Jan 28` [Notes](daily/20260128.md); **E1**: Alex, Aren, Carina, Christy, Claire, Jeffrey, Merlin, Vincent, Willie, Xiao, Zhuoyang
 * `--------`
-* `M Feb 02` Pod discussions
+* `M Feb 02` [Notes](daily/20260202.md); Pod discussions
 * `W Feb 04` 
 * `M Feb 09` 
 * `W Feb 11` 
