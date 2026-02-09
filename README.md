@@ -18,8 +18,8 @@
 * `W Jan 28` [Notes](daily/20260128.md); **E1**: Alex, Aren, Carina, Christy, Claire, Jeffrey, Merlin, Vincent, Willie, Xiao, Zhuoyang
 * `--------`
 * `M Feb 02` [Notes](daily/20260202.md); Pod discussions
-* `W Feb 04` 
-* `M Feb 09` 
+* `W Feb 04` In-class work session; 1:1 meetings with GL
+* `M Feb 09` In-class work session; 1:1 meetings with GL
 * `W Feb 11` 
 * `M Feb 16`
 * `W Feb 18` 
