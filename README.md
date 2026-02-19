@@ -20,10 +20,10 @@
 * `M Feb 02` [Notes](daily/20260202.md); Pod discussions
 * `W Feb 04` In-class work session; 1:1 meetings with GL
 * `M Feb 09` In-class work session; 1:1 meetings with GL
-* `W Feb 11` 
-* `M Feb 16`
-* `W Feb 18` 
-* `M Feb 23` **E2**: Alex, Aren, Dario, Ian, Leslie, Lorie, Nestor, Suanna, Xiao
+* `W Feb 11` In-class work session
+* `M Feb 16` In-class work session
+* `W Feb 18` In-class work session
+* `M Feb 23` **E2**: Alex, Aren, Bosi, Dario, Ian, Leslie, Lorie, Nestor, Suanna, Xiao
 * `W Feb 25` **E2**: Carina, Christy, Claire, Jeffrey, Merlin, Vincent, Willie, Zhuoyang
 * `--------` 
 * `M Mar 02` *Spring Break (no session)*
