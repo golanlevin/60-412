@@ -29,7 +29,7 @@
 * `M Mar 02` *Spring Break (no session)*
 * `W Mar 04` *Spring Break (no session)*
 * `M Mar 09` Pod discussions
-* `W Mar 11` 
+* `W Mar 11` [Notes](daily/20260311.md)
 * `M Mar 16`
 * `W Mar 18`
 * `M Mar 23` **E3**: Alex, Carina, Christy, Claire, Dario, Lorie, Merlin, Suanna, Xiao
