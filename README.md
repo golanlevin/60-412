@@ -36,7 +36,7 @@
 * `W Mar 25` **E3**: Aren, Ian, Jeffrey, Leslie, Nestor, Vincent, Willie, Zhuoyang
 * `--------`
 * `M Mar 30` Pod discussions
-* `W Apr 01` 
+* `W Apr 01` [Notes](daily/20260401.md)
 * `M Apr 06`
 * `W Apr 08`
 * `M Apr 13`
